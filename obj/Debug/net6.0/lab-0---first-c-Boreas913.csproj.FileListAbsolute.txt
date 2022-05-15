@@ -1,0 +1,15 @@
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\bin\Debug\net6.0\lab-0---first-c-Boreas913.exe
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\bin\Debug\net6.0\lab-0---first-c-Boreas913.deps.json
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\bin\Debug\net6.0\lab-0---first-c-Boreas913.runtimeconfig.json
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\bin\Debug\net6.0\lab-0---first-c-Boreas913.dll
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\bin\Debug\net6.0\lab-0---first-c-Boreas913.pdb
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.csproj.AssemblyReference.cache
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.AssemblyInfoInputs.cache
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.AssemblyInfo.cs
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.csproj.CoreCompileInputs.cache
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.dll
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\refint\lab-0---first-c-Boreas913.dll
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.pdb
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\lab-0---first-c-Boreas913.genruntimeconfig.cache
+C:\Users\auror\Code\my-code-dir\lab-0---first-c-Boreas913\obj\Debug\net6.0\ref\lab-0---first-c-Boreas913.dll
